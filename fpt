@@ -45,3 +45,7 @@ http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1,tvg-logo="https://i.imgur.com/Db5AhUN.png",VTV6
 http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1,tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1
+http://vips-livecdn.fptplay.net/hda1/vtv2hd_vhls.smil/chunklist_b5000000.m3u8
+
